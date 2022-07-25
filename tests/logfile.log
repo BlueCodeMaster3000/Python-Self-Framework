@@ -1,0 +1,74 @@
+2022-07-22 01:13:42,625 :INFO :test_formSubmission :First name is Michał
+2022-07-22 01:13:43,147 :INFO :test_formSubmission :First name is Jim
+2022-07-22 01:13:43,640 :INFO :test_formSubmission :First name is Kacper
+2022-07-22 01:13:48,697 :INFO :test_e2e :Getting all the card titles
+2022-07-22 01:13:48,721 :INFO :test_e2e :iphone X
+2022-07-22 01:13:48,731 :INFO :test_e2e :Samsung Note 8
+2022-07-22 01:13:48,739 :INFO :test_e2e :Nokia Edge
+2022-07-22 01:13:48,747 :INFO :test_e2e :Blackberry
+2022-07-22 01:13:48,831 :INFO :test_e2e :Entering country name
+2022-07-22 01:13:54,005 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-23 18:38:42,067 :INFO :test_formSubmission :First name is Michał
+2022-07-23 18:38:42,661 :INFO :test_formSubmission :First name is Jim
+2022-07-23 18:38:43,128 :INFO :test_formSubmission :First name is Kacper
+2022-07-23 18:38:48,110 :INFO :test_e2e :Getting all the card titles
+2022-07-23 18:38:48,131 :INFO :test_e2e :iphone X
+2022-07-23 18:38:48,140 :INFO :test_e2e :Samsung Note 8
+2022-07-23 18:38:48,148 :INFO :test_e2e :Nokia Edge
+2022-07-23 18:38:48,155 :INFO :test_e2e :Blackberry
+2022-07-23 18:38:48,238 :INFO :test_e2e :Entering country name
+2022-07-23 18:38:53,398 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-23 18:50:08,689 :INFO :test_formSubmission :First name is Michał
+2022-07-23 18:50:09,198 :INFO :test_formSubmission :First name is Jim
+2022-07-23 18:50:09,637 :INFO :test_formSubmission :First name is Kacper
+2022-07-23 18:50:14,940 :INFO :test_e2e :Getting all the card titles
+2022-07-23 18:50:14,965 :INFO :test_e2e :iphone X
+2022-07-23 18:50:14,975 :INFO :test_e2e :Samsung Note 8
+2022-07-23 18:50:14,983 :INFO :test_e2e :Nokia Edge
+2022-07-23 18:50:14,990 :INFO :test_e2e :Blackberry
+2022-07-23 18:50:15,077 :INFO :test_e2e :Entering country name
+2022-07-23 18:50:20,261 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-24 13:49:37,527 :INFO :test_e2e :Getting all the card titles
+2022-07-24 13:49:37,546 :INFO :test_e2e :iphone X
+2022-07-24 13:49:37,554 :INFO :test_e2e :Samsung Note 8
+2022-07-24 13:49:37,562 :INFO :test_e2e :Nokia Edge
+2022-07-24 13:49:37,568 :INFO :test_e2e :Blackberry
+2022-07-24 13:49:37,652 :INFO :test_e2e :Entering country name
+2022-07-24 13:49:42,837 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-24 13:52:47,419 :INFO :test_formSubmission :First name is Michał
+2022-07-24 13:52:47,954 :INFO :test_formSubmission :First name is Jim
+2022-07-24 13:52:48,391 :INFO :test_formSubmission :First name is Kacper
+2022-07-24 13:52:54,066 :INFO :test_e2e :Getting all the card titles
+2022-07-24 13:52:54,098 :INFO :test_e2e :iphone X
+2022-07-24 13:52:54,108 :INFO :test_e2e :Samsung Note 8
+2022-07-24 13:52:54,118 :INFO :test_e2e :Nokia Edge
+2022-07-24 13:52:54,126 :INFO :test_e2e :Blackberry
+2022-07-24 13:52:54,213 :INFO :test_e2e :Entering country name
+2022-07-24 13:52:59,403 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-24 14:48:18,223 :INFO :test_formSubmission :First name is Michał
+2022-07-24 14:48:18,753 :INFO :test_formSubmission :First name is Jim
+2022-07-24 14:48:19,173 :INFO :test_formSubmission :First name is Kacper
+2022-07-24 14:48:24,846 :INFO :test_e2e :Getting all the card titles
+2022-07-24 14:48:24,868 :INFO :test_e2e :iphone X
+2022-07-24 14:48:24,877 :INFO :test_e2e :Samsung Note 8
+2022-07-24 14:48:24,885 :INFO :test_e2e :Nokia Edge
+2022-07-24 14:48:24,891 :INFO :test_e2e :Blackberry
+2022-07-24 14:48:24,983 :INFO :test_e2e :Entering country name
+2022-07-24 14:48:30,725 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-07-24 15:07:16,063 :INFO :test_formSubmission :First name is Michał
+2022-07-24 15:07:16,633 :INFO :test_formSubmission :First name is Jim
+2022-07-24 15:07:17,131 :INFO :test_formSubmission :First name is Kacper
+2022-07-24 15:07:23,115 :INFO :test_e2e :Getting all the card titles
+2022-07-24 15:07:23,146 :INFO :test_e2e :iphone X
+2022-07-24 15:07:23,157 :INFO :test_e2e :Samsung Note 8
+2022-07-24 15:07:23,167 :INFO :test_e2e :Nokia Edge
+2022-07-24 15:07:23,175 :INFO :test_e2e :Blackberry
+2022-07-24 15:07:23,265 :INFO :test_e2e :Entering country name
+2022-07-24 15:07:28,439 :INFO :test_e2e :Text recieved from app is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
